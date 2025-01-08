@@ -13,6 +13,6 @@ public class MulCalculator {
     }
 
     public static int multiply(int a ,int b) {
-        result = a * b;
+        return a * b;
     }
 }
