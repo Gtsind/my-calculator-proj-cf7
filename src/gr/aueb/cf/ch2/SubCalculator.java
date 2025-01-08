@@ -9,6 +9,8 @@ public class SubCalculator {
         int result = 0;
 
         result = subtract(num1,num2);
+
+        System.out.println("Sub: " + result);
     }
 
     public static int subtract(int a, int b){
